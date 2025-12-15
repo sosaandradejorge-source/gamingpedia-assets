@@ -1,0 +1,26 @@
+body {
+    background-image: url(fondo.jpg);
+    height: 190vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat:repeat-y;
+    padding-top: 75px;
+}
+
+footer {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.mb-3 {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    text-align: center, justify;
+    padding: 50px;
+    margin-bottom: 60px;
+    line-height: 1.7;
+}
